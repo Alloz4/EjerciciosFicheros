@@ -8,7 +8,7 @@ public class Ejercicio1 {
 
 	public static void main(String[] args) throws FileNotFoundException {
 		
-		File archivo = new File("C:/Users/34670/Desktop/fichero.txt");
+		File archivo = new File("C:/Users/34670/Desktop/JAVA eclipse/Ficheros-ejercicios/Ficheros/fichero.txt");
 		
 		Scanner sc = new Scanner(archivo);
 		Scanner salto = new Scanner(System.in);
